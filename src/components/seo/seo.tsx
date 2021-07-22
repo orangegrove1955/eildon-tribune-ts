@@ -92,7 +92,7 @@ export const SEO: React.FunctionComponent<SEO> = ({
 
   if (imagePath) {
     metaFinal.push({
-      property: `og:title`,
+      property: `og:image`,
       content: imagePath,
     });
     metaFinal.push({
