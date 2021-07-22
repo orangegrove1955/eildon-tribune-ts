@@ -15,7 +15,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Heading 2
 
-<iframe width="100%" height="200" src="https://www.youtube.com/embed/5RLWx-CTB9g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width:100%; height:50vw;" src="https://www.youtube.com/embed/5RLWx-CTB9g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Accumsan tortor posuere ac ut consequat semper viverra nam libero. Sagittis orci a scelerisque purus. Fermentum et sollicitudin ac orci phasellus egestas. Morbi tincidunt augue interdum velit euismod in pellentesque. Ipsum dolor sit amet consectetur. Lorem mollis aliquam ut porttitor leo a diam. Ullamcorper morbi tincidunt ornare massa eget. Volutpat blandit aliquam etiam erat. Sed faucibus turpis in eu mi bibendum neque. Feugiat nisl pretium fusce id velit ut tortor. Nunc consequat interdum varius sit amet mattis vulputate enim. Porta non pulvinar neque laoreet suspendisse interdum consectetur. Feugiat in ante metus dictum. Quis risus sed vulputate odio ut.
 
