@@ -1,6 +1,6 @@
 const siteName = "Eildon Tribune";
 const siteShortName = "Eildon Tribune";
-const siteUrl = "https://geek.sg/";
+const siteUrl = "https://eildon-tribune.netlify.app/";
 const siteDescription = "All the news you need for the Eildon area";
 const siteKeyword = "";
 const siteLogo = "logo.png";
