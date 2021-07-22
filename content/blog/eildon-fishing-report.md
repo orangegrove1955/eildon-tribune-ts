@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Eildon Fishing Report
-publishedDate: 2021-07-22T03:26:16.986Z
+publishedDate: 1992-07-09T03:26:16.986Z
 description: Nothing much has changed on local rivers. Fish mornings in classic
   summer water–riffles and fast slots. The North Fork Clearwater and Kelly Creek
   are good summer options. Dries, with or without a dropper, will find biters.
