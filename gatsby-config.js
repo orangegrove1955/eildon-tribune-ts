@@ -1,7 +1,7 @@
-const siteName = "Sample Blog";
-const siteShortName = "Sample Blog";
+const siteName = "Eildon Tribune";
+const siteShortName = "Eildon Tribune";
 const siteUrl = "https://geek.sg/";
-const siteDescription = "Sample blog template";
+const siteDescription = "All the news you need for the Eildon area";
 const siteKeyword = "";
 const siteLogo = "logo.png";
 const siteLogoFolder = `static/${siteLogo}`;
