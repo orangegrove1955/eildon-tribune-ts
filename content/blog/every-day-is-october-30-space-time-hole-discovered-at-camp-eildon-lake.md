@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: '"Every Day is October 30" - Space-Time Hole Discovered At Camp Eildon Lake'
+title: '"Every Day is October 30" - Space-Time Loop Discovered At Camp Eildon Lake'
 publishedDate: 2021-10-09T04:54:00.000Z
 description: Local physicists notice anomaly in space-time continuum at infamous
   Camp Eildon Lake, announce "it is constantly the night before Halloween"
