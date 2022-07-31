@@ -7,7 +7,7 @@ description: >
   of the brutal massacre
 featured: false
 img: ../../static/images/firefighters.jpg
-imgAlt: he smouldering remains of the now twice burned campgrounds
+imgAlt: The smouldering remains of the now twice burned campgrounds
 tags:
   - camp eildon lake
   - fire
